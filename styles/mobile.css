@@ -97,7 +97,8 @@
     }    
 
     .edc::before{
-        top: -50px
+        top: -50px;
+        height: 350px;
     }    
 
     .networks::before{
