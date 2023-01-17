@@ -1,4 +1,4 @@
-# Landingpage marketingové kampaňe
+# Landingpage marketingové kampaně
 
 Tato stránka a veškeré podklady vznikly v rámci školního projektu
 
